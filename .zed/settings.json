@@ -1,0 +1,38 @@
+{
+  "lsp": {
+    "mojo-lsp-server": {
+      "binary": {
+        "path": "../max-vulkan/data/editor/bin/mojo-lsp-server",
+        "arguments": []
+      }
+    },
+    "mlir-lsp-server": {
+      "binary": {
+        "path": "../max-vulkan/data/editor/bin/mlir-lsp-server",
+        "arguments": []
+      }
+    },
+    "mlir-pdll-lsp-server": {
+      "binary": {
+        "path": "../max-vulkan/data/editor/bin/mlir-pdll-lsp-server",
+        "arguments": []
+      }
+    },
+    "tblgen-lsp-server": {
+      "binary": {
+        "path": "../max-vulkan/data/editor/bin/tblgen-lsp-server",
+        "arguments": []
+      }
+    },
+    "nixd": {
+      "binary": {
+        "path": "../max-vulkan/data/editor/bin/nixd"
+      }
+    },
+    "starpls": {
+      "binary": {
+        "path": "../max-vulkan/data/editor/bin/starpls"
+      }
+    }
+  }
+}
